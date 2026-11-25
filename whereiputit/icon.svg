@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024"><defs><radialGradient id="em" cx="38%" cy="32%" r="75%"><stop offset="0" stop-color="#FFC08F"/><stop offset="0.45" stop-color="#FF8A3D"/><stop offset="1" stop-color="#E2601A"/></radialGradient>
+<radialGradient id="glow" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#FF8A3D" stop-opacity="0.55"/><stop offset="1" stop-color="#FF8A3D" stop-opacity="0"/></radialGradient><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#16181D"/><stop offset="1" stop-color="#08090B"/></linearGradient>
+<linearGradient id="beam" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFD9B8" stop-opacity="0.02"/><stop offset="1" stop-color="#FFC9A0" stop-opacity="0.20"/></linearGradient>
+<radialGradient id="pool" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#FF8A3D" stop-opacity="0.55"/><stop offset="1" stop-color="#FF8A3D" stop-opacity="0"/></radialGradient>
+<linearGradient id="shelf" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3A3F4A"/><stop offset="1" stop-color="#1E2128"/></linearGradient></defs>
+<rect width="1024" height="1024" fill="url(#bg)"/>
+<path d="M400 -10 L624 -10 L840 700 L184 700 Z" fill="url(#beam)"/>
+<ellipse cx="512" cy="702" rx="300" ry="64" fill="url(#pool)"/>
+<rect x="132" y="700" width="760" height="40" rx="20" fill="url(#shelf)"/>
+<rect x="134" y="701" width="756" height="6" rx="3" fill="#FFFFFF" fill-opacity="0.12"/>
+<circle cx="512" cy="596" r="104" fill="url(#em)"/></svg>
